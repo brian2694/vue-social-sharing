@@ -70,7 +70,7 @@
   },
 
   "whatsapp": {
-    "sharer": "whatsapp://send?text=@description%0D%0A@url",
+    "sharer": "https://api.whatsapp.com/send?text=@description%0D%0A@url",
     "type": "direct",
     "action": "share/whatsapp/share"
   },
