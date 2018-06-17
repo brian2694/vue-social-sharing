@@ -1,6 +1,6 @@
-<a name="2.3.3"></a>
-# [2.3.3](https://github.com/nicolasbeauvais/vue-social-sharing/compare/2.3.2...2.3.3) (2017-12-11)
-- Tag 2.3.3
+<a name="2.3.5"></a>
+# [2.3.5](https://github.com/nicolasbeauvais/vue-social-sharing/compare/2.3.2...2.3.5) (2017-12-11)
+- Tag 2.3.5
 
 <a name="2.3.2"></a>
 # [2.3.2](https://github.com/nicolasbeauvais/vue-social-sharing/compare/2.3.1...2.3.2) (2017-12-04)

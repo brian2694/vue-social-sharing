@@ -71,7 +71,7 @@
 
   "whatsapp": {
     "sharer": "https://api.whatsapp.com/send?text=@description%0D%0A@url",
-    "type": "direct",
+    "type": "popup",
     "action": "share/whatsapp/share"
   },
   
